@@ -1,7 +1,6 @@
-
 ''' Author:Polina Soshnin
     Name: scene.py
-    Date: Nov 17, 2013 (using Lateness coupons)
+    Date: Nov 17, 2013 
     Description: Draw a scene of pastryclouds and a dustbunny
     Techniques used: Lighting, Bezier Curves, Textures, Glut Objects
 '''
